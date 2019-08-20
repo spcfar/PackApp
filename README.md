@@ -8,3 +8,5 @@
 ## 编译注意
     
     原版app放在assets中即可, 修改宿主的启动页面为app的页面
+
+感谢 [VirtualXposed](https://github.com/android-hacker/VirtualXposed)
